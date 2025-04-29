@@ -1,0 +1,33 @@
+@import url('https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+@theme{
+    --color-primary: #0EA5E9;
+    --color-secondary: #64748B;
+    --font-pacifico: pacifico, cursive;
+    --font-inter: Inter, sans-serif;
+    --radius-sm: 4px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+    --radius-xl: 20px;
+    --radius-2xl: 24px;
+    --radius-3xl: 32px;
+    --radius-none: 0px;
+    --radius-DEFAULT: 8px;
+    --radius-full: 9999px;
+    --radius-button: 8px;
+    
+}
+
+
+:where([class^="ri-"])::before {
+  content: '\f3c2';
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.testimonial-slider {
+  transition: transform 0.3s ease-in-out;
+}
