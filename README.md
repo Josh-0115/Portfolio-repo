@@ -270,5 +270,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 **Author:** Sunny Josh 
 **GitHub:** [https://github.com/your-github-username](https://github.com/Josh-0115)  
-**Live Site:** [https://your-username.github.io/your-portfolio](https://your-username.github.io/your-portfolio)  
+**Live Site:** [https://your-username.github.io/your-portfolio](https://josh-0115.github.io/Portfolio-repo/) 
 **Last Updated:** May 17, 2025
